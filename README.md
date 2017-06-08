@@ -1,8 +1,9 @@
 # data_analysis_process
 The exercise in P4 of Data_analysis_process for Machine Learning Foundation Nanodegree from udacity.
 
+-------------------------------------------------------------------------------
 
-enrollments.csv:
+# enrollments.csv:
 
 Data about a random subset of Data Analyst Nanodegree students who complete
 their first project and a random subset of students who do not.
@@ -31,7 +32,7 @@ Columns:
 
 -------------------------------------------------------------------------------
 
-daily_engagement.csv:
+# daily_engagement.csv:
 
 Data about engagement within Data Analyst Nanodegree courses for each student in
 the enrollment table on each day they were enrolled. Includes a record even if
@@ -61,7 +62,7 @@ Columns:
 
 -------------------------------------------------------------------------------
 
-project_submissions.csv:
+# project_submissions.csv:
 
 Data about submissions for Data Analyst Nanodegree projects for each student in
 the enrollment table.
@@ -90,7 +91,7 @@ Columns:
 
 -------------------------------------------------------------------------------
 
-daily_engagement_full.csv:
+# daily_engagement_full.csv:
 
 Similar to daily_engagement.csv, but with engagement further broken down by
 course and with more columns available. This file is about 500 megabytes, which
